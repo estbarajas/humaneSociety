@@ -71,7 +71,7 @@ namespace HumaneSociety.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-NMM16TR;Initial Catalog=HumaneSociety;Integrated Security=Tru" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=CHOUYOUYANGE1D4;Initial Catalog=HumaneSociety;Integrated Security=Tru" +
             "e;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False")]
         public string HumaneSocietyConnectionString3 {
             get {
